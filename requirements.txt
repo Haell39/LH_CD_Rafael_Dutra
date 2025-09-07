@@ -1,0 +1,21 @@
+# Core Libraries for Data Handling
+pandas
+numpy
+
+# Visualization Libraries
+matplotlib
+seaborn
+wordcloud
+
+# Machine Learning & Modeling
+scikit-learn
+xgboost
+
+# Natural Language Processing
+nltk
+
+# Jupyter Environment
+notebook
+
+# Additional Utilities
+joblib
